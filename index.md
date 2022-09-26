@@ -1,13 +1,13 @@
 # Melvyn Nam Qiang Tan
 ## About Me
 Hi there, my name is Melvyn and I am from [Malaysia](https://en.wikipedia.org/wiki/Malaysia). I have lived there for over 20 years and have recently come to the US for studies.
-I am a Junior studying Mathematics - Computer Science at UCSD and I have been enjoying it very much so far! I have many hobbies which I will discuss further down the page, however if you would like to view my hobbies right now then click [here](#Hobbies)
+I am a Junior studying Mathematics - Computer Science at UCSD and I have been enjoying it very much so far! If you want to find out how I was first fascinated by Mathematics & Computer Science, click [here.](#about-me-programmer)I have many hobbies which I will discuss further down the page, however if you would like to view my hobbies right now then click [here](#Hobbies)
 ![Me at La Jolla Shores](lajollacove.jpg)
 As you've read from the above, I am Malaysian! Malaysia is located in South-East Asia and is about 18 hours away by plane from San Diego. Malaysia is known for its rich culture, friendly people as well as amazing food. The weather in Malaysia is extremely predictable - it is always hot and humid all year round. It is normal to see Malaysians going about their day to day business in T-shirts, shorts and flip flops. Malaysia is a popular tourist attraction where some tourists have said 
 > Malaysia is a country unlike any other: Full of promise and fragility. Its history, cultural and religious diversity make it a rich, compelling and surprising land.
 > 
 ![Petronas Twin Towers at Malaysia](KLCC.jpg)
-<sub>The image shown is the [Petronas Twin Towers](https://en.wikipedia.org/wiki/Petronas_Towers) and is located in the heart of Kuala Lumpur. It was the tallest building in the world from 1998 to 2004.</sub>
+<sub>The image shown is the [Petronas Twin Towers](https://en.wikipedia.org/wiki/Petronas_Towers) and is located in the heart of Kuala Lumpur. It was the tallest building in the world from 1998 to 2004. If you would like to see a picture of the KLCC itself, click [here](KLCC.jpg)</sub>
 
 ## Hobbies
 ### Video Games
@@ -28,3 +28,8 @@ Other than that, I also have other hobbies such as
 ## About Me (Programmer)
 ### How I Started
 When I was young, I had always found computers to be interesting. I was particularly interested to how it worked and I could interact with it when playing video games. I took my first programming class in high school and I was hooked by how I was able to tell computers what to do by writing in some instructions. My favorite programming statement by far has to be the `while` command where the computer is able to perform the same tasks over and over again until a condition is met. View my favorite programming language on my README.md file [here](README.md)
+
+### List of programming languages I would like to learn
+- [] React
+- [] Dart
+- [] SQL
