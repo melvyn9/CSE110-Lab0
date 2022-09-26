@@ -1,7 +1,7 @@
 # Melvyn Nam Qiang Tan
 ## About Me
 Hi there, my name is Melvyn and I am from [Malaysia](https://en.wikipedia.org/wiki/Malaysia). I have lived there for over 20 years and have recently come to the US for studies.
-I am a Junior studying Mathematics - Computer Science at UCSD and I have been enjoying it very much so far!
+I am a Junior studying Mathematics - Computer Science at UCSD and I have been enjoying it very much so far! I have many hobbies which I will discuss further down the page, however if you would like to view my hobbies right now then click [here](#Hobbies)
 ![Me at La Jolla Shores](lajollacove.jpg)
 As you've read from the above, I am Malaysian! Malaysia is located in South-East Asia and is about 18 hours away by plane from San Diego. Malaysia is known for its rich culture, friendly people as well as amazing food. The weather in Malaysia is extremely predictable - it is always hot and humid all year round. It is normal to see Malaysians going about their day to day business in T-shirts, shorts and flip flops. Malaysia is a popular tourist attraction where some tourists have said 
 > Malaysia is a country unlike any other: Full of promise and fragility. Its history, cultural and religious diversity make it a rich, compelling and surprising land.
