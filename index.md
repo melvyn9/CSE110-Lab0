@@ -9,7 +9,7 @@ As you've read from the above, I am Malaysian! Malaysia is located in South-East
 In my free time, I enjoy playing video games with my friends. I really enjoy playing team based games such as Dota 2, CSGO, RuneScape, and many other games. I would rank these games in this order
 1. Dota 2
 2. RuneScape
-3. CSGO
+3. CSGO <br>
 Additionally, I also really enjoy playing role-playing games such as Skyrim, Witcher 3 and Elden Ring. I think that Skyrim is by far my favorite role-playing game as there are so many builds and quests to complete that you could spent lots of hours on it and not get bored. The graphics on the game are also excellent and look very realistic.
 ![Skyrim](Skyrim.jpg)
 Other than that, I also have other hobbies such as
