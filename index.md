@@ -29,7 +29,14 @@ Other than that, I also have other hobbies such as
 ### How I Started
 When I was young, I had always found computers to be interesting. I was particularly interested to how it worked and I could interact with it when playing video games. I took my first programming class in high school and I was hooked by how I was able to tell computers what to do by writing in some instructions. My favorite programming statement by far has to be the `while` command where the computer is able to perform the same tasks over and over again until a condition is met. View my favorite programming language on my README.md file [here](README.md)
 
-### List of programming languages I would like to learn
-- [] React
-- [] Dart
-- [] SQL
+### List of programming languages I would like to learn/learned
+- [x] Python
+- [x] Java
+- [x] C
+- [x] C++
+- [x] HTML
+- [x] CSS
+- [x] Vanilla JavaScript
+- [ ] React
+- [ ] Dart
+- [ ] SQL
